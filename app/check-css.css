@@ -1,0 +1,13 @@
+.some-class {
+  display: flex;
+  flex-direction: column;
+  background-color: whitesmoke;
+  border-radius: 3px;
+  border: 1px solid white;
+  align-content: flex-end;
+  align-items: flex-end;
+  justify-content: flex-end;
+  align-items: baseline;
+  font-size: medium;
+  margin-right: 50px;
+}
